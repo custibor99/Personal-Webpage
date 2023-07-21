@@ -3,7 +3,7 @@
 </script>
 <div class="navbar bg-white border-b-indigo-500 border-b-2 sticky top-0">
     <div class="flex-1">
-      <a class="btn btn-ghost normal-case text-xl">Tibor Čuš</a>
+      <a class="font-semibold normal-case text-xl pl-3">Tibor Čuš</a>
     </div>
     <div class="flex-none">
       <ul class="menu menu-horizontal px-1 items-center">
