@@ -7,7 +7,7 @@
 
 </script>
 
-<div class="card w-66 h-50 bg-base-100 shadow-xl relative">
+<div class="card w-66 h-50 bg-base-200 shadow-xl relative">
     <div class="card-body">
       <h2 class="card-title">{title}</h2>
       <p>{text}</p>
